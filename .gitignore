@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+uploads/
+*.user
+build/
+.dart_tool/
+.gradle/
+.idea/
+local.properties
